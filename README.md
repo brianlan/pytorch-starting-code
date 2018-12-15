@@ -8,7 +8,7 @@ jupyter-notebook --ip 0.0.0.0
 ```
 
 ## Train
-Open and run train.ipynb in Jupyter-Notebook
+Open `train.ipynb` in Jupyter-Notebook and modify it into runable one.
 
 ## Test
-Open and run test.ipynb in Jupyter-Notebook
+Open `test.ipynb` in Jupyter-Notebook and modify it into runable one.
